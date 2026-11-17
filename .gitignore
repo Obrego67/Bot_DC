@@ -1,0 +1,26 @@
+
+# Compilación
+build/
+out/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj.user
+
+# Archivos temporales
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+
+# VS Code
+.vscode/
+
+# Secretos
+.env
+.env.*
+!.env.example
+
+/resources
